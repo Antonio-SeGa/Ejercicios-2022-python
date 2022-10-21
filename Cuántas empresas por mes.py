@@ -1,7 +1,6 @@
 # Online Python compiler (interpreter) to run Python online.
 # Write Python 3 code in this online editor and run it.
-contE = 0;contF = 0;contM = 0;contA = 0;contMa = 0;contJ = 0;contJu = 0;
-contAg = 0;contS = 0;contO = 0;contN = 0;contD = 0
+contE = 0;contF = 0;contM = 0;contA = 0;contMa = 0;contJ = 0;contJu = 0; contAg = 0;contS = 0;contO = 0;contN = 0;contD = 0
 
 lista = ['MOH820115NI4','TGJ850121AI3','GAK921218LL2','AAA920127BB1','BGS920206CC5','CJD820305DE6','SLE720111AB5','ABR720525CA4','ANZ930622CC4','DML720525TT2','JEO930622TH3','IXP720525KI9','OOQ930622XD8','LAA720525SA7','MON930622AA2']
 
